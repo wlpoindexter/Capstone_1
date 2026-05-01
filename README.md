@@ -3,3 +3,5 @@
 This project analyzes EmporiUm sales data for the Massachusetts territory managed by Bo Heap in the Northeast region.
 
 Using SQL and Excel, the project reviews revenue, monthly sales trends, store performance, and recommendations for future growth.
+
+https://drive.google.com/file/d/1_iOJWIMZvYouGJAT_L2-zBAW33zdlTQ9/view?usp=sharing
